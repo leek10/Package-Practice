@@ -5,5 +5,6 @@ setup(name = 'package-practice',
       description = 'A simple demonstration package',
       url = 'https://github.com/leek10/package-practice',
       author = 'Kayla Lee',
-      author_email = 'MIT',
+      author_email = 'kl2jmx@virginia.edu'
+      license = 'MIT',
       packages = ['mypackage'])
